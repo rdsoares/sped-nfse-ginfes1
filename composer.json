@@ -1,9 +1,9 @@
 {
-    "name": "nfephp-org/sped-nfse-ginfes",    
+    "name": "rdsoares/sped-nfse-ginfes1",    
     "type": "library",
     "description": "API para geração e envio da NFSe padrão GINFES para a prefeitura.",
     "keywords": ["ginfes", "sped", "nfephp"],
-    "homepage": "https://github.com/nfephp-org/sped-nfse-ginfes",
+    "homepage": "https://github.com/rdsoares/sped-nfse-ginfes1",
     "license": ["LGPL-3.0-or-later", "GPL-3.0-or-later", "MIT"],
     "authors": [
         {
@@ -26,7 +26,7 @@
         },
         {
             "name": "Comunidade NFePHP",
-            "homepage": "https://github.com/nfephp-org/sped-nfse-ginfes/graphs/contributors"
+            "homepage": "https://github.com/rdsoares/sped-nfse-ginfes/graphs/contributors"
         }
     ],
     "require": {
